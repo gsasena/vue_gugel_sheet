@@ -22,8 +22,13 @@ npm install
 npm run dev
 ```
 
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
 ### Fitur Utama
 ```
 * [Baru] 🔍 **Pencarian Desa:** Kini pengguna dapat mencari nama Desa spesifik melalui kolom pencarian di atas tabel.
-npm run build
 ```
